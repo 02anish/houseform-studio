@@ -1,5 +1,5 @@
-﻿# Houseform — 2D room planner
+﻿# Houseform — Room and floor design
 
-Run npm install, then npm run dev. Add, drag, resize, rename, and delete rooms. Changes are in memory in this foundation release.
+Run npm install, then npm run dev. Create and edit rooms with walls, rotate them, switch between plan and 3D, and create floor levels. Changes are in memory in this release.
 
-Next stage: 3D room views, walls, and floor levels.
+Next stage: furniture, materials, persistent projects, and imports/exports.
