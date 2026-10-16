@@ -1,5 +1,5 @@
-﻿# Houseform — Room and floor design
+﻿# Houseform — House design editor
 
-Run npm install, then npm run dev. Create and edit rooms with walls, rotate them, switch between plan and 3D, and create floor levels. Changes are in memory in this release.
+Run npm install, then npm run dev. Design rooms, walls, doors/windows, stairs, furniture, and materials across multiple floors. Use 2D/3D views, undo/redo, browser autosave, and JSON import/export.
 
-Next stage: furniture, materials, persistent projects, and imports/exports.
+Next stage: automated regression tests, documentation, and CI.
